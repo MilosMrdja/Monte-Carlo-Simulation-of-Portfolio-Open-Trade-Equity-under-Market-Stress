@@ -152,3 +152,4 @@ Vizualizacija je urađena korišćenjem **Rust okruženja** i biblioteke **Plott
 - **NAPOMENA** Tokom rada moguća mala izmena navedenih biblioteka ili pristupa rešenju ukoliko bude bilo potrebno
 
 ---
+Miloš Mrđa, SV34/2022
